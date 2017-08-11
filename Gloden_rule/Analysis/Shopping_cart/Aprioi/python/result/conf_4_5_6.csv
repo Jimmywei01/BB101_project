@@ -1,0 +1,10 @@
+frozenset({'麥片'}),->,frozenset({'背心袋'}),conf: ,0.2323270920901796
+frozenset({'背心袋'}),->,frozenset({'麥片'}),conf: ,0.06810417250070008
+frozenset({'筆芯'}),->,frozenset({'修正帶'}),conf: ,0.10347035471891408
+frozenset({'修正帶'}),->,frozenset({'筆芯'}),conf: ,0.20054604120129066
+frozenset({'背心袋'}),->,frozenset({'眼彩筆'}),conf: ,0.06891626995239429
+frozenset({'眼彩筆'}),->,frozenset({'背心袋'}),conf: ,0.19917449012625443
+frozenset({'筆芯'}),->,frozenset({'鋼珠筆'}),conf: ,0.13038374525120588
+frozenset({'鋼珠筆'}),->,frozenset({'筆芯'}),conf: ,0.21732479544646033
+frozenset({'螢光筆'}),->,frozenset({'筆芯'}),conf: ,0.16483928084990465
+frozenset({'筆芯'}),->,frozenset({'螢光筆'}),conf: ,0.10332095445426216
